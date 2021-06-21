@@ -8,6 +8,8 @@ public class A {
 
 		System.out.println("change from master");
 		System.out.println("change from devB");
+		System.out.println("change from devC");
+
 	}
 
 }

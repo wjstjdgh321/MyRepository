@@ -5,6 +5,8 @@ public class C {
 		System.out.println("Hello git!");
 		
 		System.out.println("This is C.java");
+		
+		System.out.println("change from devC");
 
 	}
 

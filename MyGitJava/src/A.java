@@ -7,6 +7,7 @@ public class A {
 		System.out.println("This is A.java");
 
 		System.out.println("change from master");
+		System.out.println("change from devB");
 	}
 
 }

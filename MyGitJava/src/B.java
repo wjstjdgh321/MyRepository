@@ -6,6 +6,7 @@ public class B {
 		
 		System.out.println("This is B.java");
 
+		System.out.println("change from devB");
 	}
 
 }
